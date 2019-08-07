@@ -1,3 +1,31 @@
 h1{
   font-family: 'Cabin', sans-serif;
+  color: white
+}
+body{
+  background-color: #1C1C1C;
+}
+.p{
+  margin: 15px
+}
+.pp{
+  margin: 15px
+}
+.ppp{
+  margin: 15PX
+}
+.pppp{
+  margin:10px
+}
+.q{
+  margin:15px
+}
+.qq{
+  margin: 15px
+}
+.qqq{
+  margin: 15px
+}
+.qqqq{
+  margin:15px
 }
